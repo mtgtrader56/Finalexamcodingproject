@@ -8,3 +8,8 @@
 <AnchorPane xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.40" fx:controller="rocket.app.view.MortgageController">
 
 </AnchorPane>
+	 <TextField id="txtIncome" fx:id="txtIncome" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.valignment="CENTER" />
+     <TextField id="txtExpenses" fx:id="txtExpenses" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="1" GridPane.valignment="CENTER" />
+     <TextField id="txtCreditScore" fx:id="txtCreditScore" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="2" GridPane.valignment="CENTER" />
+     <TextField id="txtHouseCost" fx:id="txtHouseCost" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="3" GridPane.valignment="CENTER" />
+            
